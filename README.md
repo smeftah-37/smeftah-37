@@ -16,7 +16,6 @@
 
 I am currently pursuing a degree in IT Architecture at <a href="https://1337.ma">UM6P - 1337FIL</a>
 </br>
- "You Hack People, I hack time!"
 
 I'm currently based in **[Casablanca, Morocco.]([https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378](https://maps.app.goo.gl/DR5fTT6GTNuXsSfD7))**
 
@@ -48,6 +47,9 @@ I'm currently based in **[Casablanca, Morocco.]([https://www.google.com/maps/pla
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
+
 
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
 )
